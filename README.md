@@ -1,4 +1,4 @@
-[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif)](https://Abhimanyu8901.io)
+[![MasterHead](widht="800" https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/android_12_developer_preview.gif )](https://Abhimanyu8901.io)
 <h1 align="center">Hi 👋, I'm Abhimanyu Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
